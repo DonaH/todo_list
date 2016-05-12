@@ -29,4 +29,3 @@
 * then you should see the app running
 
 ## Try it and I hope it works for you. Happy Coding!
-<img src="public/Todo app screenshot.png">
