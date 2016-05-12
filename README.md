@@ -10,7 +10,7 @@
 ### * Single page app
 ### * Todo list
 
-![screenshot](/public/Todo app screenshot.png)
+![screenshot](/public/todo_screenshot.png)
 <br>
 ## How to use
 * Assume you have node and mongo installed in your system.
