@@ -10,6 +10,8 @@
 ### * Single page app
 ### * Todo list
 
+<img src="public/Todo app screenshot.png">
+<br>
 ## How to use
 * Assume you have node and mongo installed in your system.
 * run npm init
@@ -27,4 +29,4 @@
 * then you should see the app running
 
 ## Try it and I hope it works for you. Happy Coding!
-
+<img src="public/Todo app screenshot.png">
